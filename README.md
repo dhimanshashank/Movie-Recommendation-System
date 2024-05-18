@@ -51,3 +51,18 @@ This project provides personalized movie recommendations using machine learning 
     with open('movies_dict.pkl', 'rb') as file:
         movies_dict = pickle.load(file)
     ```
+## Screenshots
+
+1. Dashboard
+![Screenshot 1](./Output%20screenshots/Screenshot%202024-05-18%20172807.png)
+2. Searchable drop-down
+![Screenshot 2](./Output%20screenshots/Screenshot%202024-05-18%20172918.png)
+3. Sample search 1
+![Screenshot 3](./Output%20screenshots/Screenshot%202024-05-18%20172947.png)
+4. Sample search 2
+![Screenshot 4](./Output%20screenshots/Screenshot%202024-05-18%20173231.png)
+5. Sample search 3
+![Screenshot 2024-05-18 173059](./Output%20screenshots/Screenshot%202024-05-18%20173059.png)
+
+## Contributors
+Shashank: Project Developer
